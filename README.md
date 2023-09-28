@@ -24,3 +24,5 @@ Images from the Mitra Habba Organised by Mitra For Life
 <img src="https://github.com/charvibannur/ADHDaptive-Thriving-with-ADHD/assets/77164319/8a3de95c-d8f6-4a4a-813e-40ca9a0cecbb" width="200">
 
 ## Contributors
+* Charvi Bannur : [https://github.com/charvibannur](https://github.com/charvibannur)
+* Roshita Bhonsle : [https://github.com/RoshitaB](https://github.com/RoshitaB)

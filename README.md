@@ -10,7 +10,7 @@
 ## Directory Structure
 1. ```ADHD.zip```: This archive contains the dataset utilized for training the chatbot. <br>Dataset Source: https://www.kaggle.com/datasets/jerseyneo/reddit-adhd-dataset
 2. ```ADHD_1.ipynb```: This Jupyter Notebook serves as the source code and encompasses various stages of the project, including Data Exploration, Preprocessing, Model Building, Training, and Evaluation.
-3. ```ADHDaptive.pdf```: A presentation document that offers a concise summary of our project's concept and proposal.
+3. ```ADHDvance.pdf```: A presentation document that offers a concise summary of our project's concept and proposal.
    
 ## Demo of our Chatbot
 https://github.com/charvibannur/ADHDaptive-Thriving-with-ADHD/assets/77164319/bf5d414c-b991-4362-bb85-2153cecaff89
